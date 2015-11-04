@@ -1,0 +1,6 @@
+aem/core/listeners/SimpleResourceListener.class
+aem/core/package-info.class
+aem/core/schedulers/SimpleScheduledTask.class
+aem/core/models/HelloWorldModel.class
+aem/core/filters/LoggingFilter.class
+aem/core/servlets/SimpleServlet.class
